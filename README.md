@@ -1,13 +1,12 @@
 ## Hi, I'm Nidhi Pandey !👋
 
 🎓 B.Tech IT Student at SLRTCE | Aspiring Software Engineer | AI & Data Science Enthusiast<br/>
-💻 Passionate about Software Engineering, Artificial Intelligence, and Data Science<br/>
 🐍 Building projects with Python while exploring Machine Learning and AI<br/>
 📚 Currently learning Data Structures & Algorithms and strengthening problem-solving skills<br/>
 🤝 Open to collaboration, hackathons, and innovative projects<br/>
 
-![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhipandey18&show_icons=true&theme=radical&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhipandey18&layout=compact&theme=radical&hide_border=true)
+![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhipandey18&show_icons=true&theme=radical&hide_border=true&v=2)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhipandey18&layout=compact&theme=radical&hide_border=true&v=2)
 
 ## 💻 Tech Stack
 
@@ -21,6 +20,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Projects
+
+- 🐍 **Python Practice** – Hands-on Python exercises covering fundamentals, OOP, and mini projects.
+  - Repository: https://github.com/NidhiPandey18/python-practice
 
 ## 🏆 Certifications & Achievements
 
